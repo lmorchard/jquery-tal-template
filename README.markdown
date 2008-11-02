@@ -11,6 +11,6 @@ JavaScript as a jQuery plugin.  This may or may not be a good idea.
 
 ## Usage
 
-Coming soon.  For now, here's [a defunct example template][example].
+Coming soon.  For now, here's [a defunct example template][example] - search for tal:repeat to start seeing the goods.
 
 [example]: http://viewvc.svn.mozilla.org/vc/projects/lizardfeeder/trunk/htdocs/index.html?revision=19373&content-type=text%2Fplain&pathrev=19444
